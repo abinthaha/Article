@@ -1,0 +1,9 @@
+.head
+{
+    text-align: center;
+    font-size: 50;
+}
+.list-group-item
+{
+    display: block;
+}
